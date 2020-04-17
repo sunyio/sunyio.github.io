@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>拉狗</title>
+    <link>https://sunyio.github.io/</link>
+    
+    <atom:link href="/rss2.xml" rel="self" type="application/rss+xml"/>
+    
+    <description></description>
+    <pubDate>Wed, 15 Apr 2020 16:15:20 GMT</pubDate>
+    <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>hexo生成博文插入图片</title>
+      <link>https://sunyio.github.io/2020/04/15/hexo%E7%94%9F%E6%88%90%E5%8D%9A%E6%96%87%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/</link>
+      <guid>https://sunyio.github.io/2020/04/15/hexo%E7%94%9F%E6%88%90%E5%8D%9A%E6%96%87%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/</guid>
+      <pubDate>Wed, 15 Apr 2020 14:59:10 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;img src=&quot;/2020/04/15/hexo%E7%94%9F%E6%88%90%E5%8D%9A%E6%96%87%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/cat_happy.jpg&quot; class title=&quot;This is an ex
+        
+      
+      </description>
+      
+      
+      <content:encoded><![CDATA[<img src="/2020/04/15/hexo%E7%94%9F%E6%88%90%E5%8D%9A%E6%96%87%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/cat_happy.jpg" class title="This is an example image"><p>参考:<a href="https://blog.csdn.net/xjm850552586/article/details/84101345" target="_blank" rel="noopener">https://blog.csdn.net/xjm850552586/article/details/84101345</a></p>]]></content:encoded>
+      
+      <comments>https://sunyio.github.io/2020/04/15/hexo%E7%94%9F%E6%88%90%E5%8D%9A%E6%96%87%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>搭建博客简单步骤</title>
+      <link>https://sunyio.github.io/2020/04/15/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E7%AE%80%E5%8D%95%E6%AD%A5%E9%AA%A4/</link>
+      <guid>https://sunyio.github.io/2020/04/15/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E7%AE%80%E5%8D%95%E6%AD%A5%E9%AA%A4/</guid>
+      <pubDate>Tue, 14 Apr 2020 21:25:35 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;p&gt;1.下载git   注册账号&lt;br&gt;2.下载node.js&lt;br&gt;3.使用npm安装Hexo         在指定文件夹运行cmd   npm install -g hexo-cli&lt;br&gt;4.创建 hexo init &lt;folder&gt;    进入cd &lt;folder&gt; 
+        
+      
+      </description>
+      
+      
+      <content:encoded><![CDATA[<p>1.下载git   注册账号<br>2.下载node.js<br>3.使用npm安装Hexo         在指定文件夹运行cmd   npm install -g hexo-cli<br>4.创建 hexo init <folder>    进入cd <folder>     运行 npm install  初始化后会有一个项目文件夹<br>5.更改_config.yml文件<br>6.进入项目文件夹 新建博客  hexo new “xxx”   生成 hexo g<br>7.hexo server 启动网站    <a href="http://localhost:4000" target="_blank" rel="noopener">http://localhost:4000</a><br>8.安装 hexo-deployer-git      运行 npm install hexo-deployer-git –save<br>9.部署  hexo deploy</folder></folder></p><p>注：我个人简化许多  具体步骤参考hexo.com</p>]]></content:encoded>
+      
+      <comments>https://sunyio.github.io/2020/04/15/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E7%AE%80%E5%8D%95%E6%AD%A5%E9%AA%A4/#disqus_thread</comments>
+    </item>
+    
+    <item>
+      <title>Hello World</title>
+      <link>https://sunyio.github.io/2020/04/15/Hello-World/</link>
+      <guid>https://sunyio.github.io/2020/04/15/Hello-World/</guid>
+      <pubDate>Tue, 14 Apr 2020 21:15:51 GMT</pubDate>
+      <description>
+      
+        
+        
+          &lt;p&gt;##我的第一篇博客&lt;br&gt;运营博客的初衷：&lt;br&gt;①督促我学习&lt;br&gt;②分享我的学习过程及经验。&lt;br&gt;我认为分享的过程更容易促进我的进步。&lt;/p&gt;
+
+        
+      
+      </description>
+      
+      
+      <content:encoded><![CDATA[<p>##我的第一篇博客<br>运营博客的初衷：<br>①督促我学习<br>②分享我的学习过程及经验。<br>我认为分享的过程更容易促进我的进步。</p>]]></content:encoded>
+      
+      <comments>https://sunyio.github.io/2020/04/15/Hello-World/#disqus_thread</comments>
+    </item>
+    
+  </channel>
+</rss>
