@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>拉狗</title>
+  
+  <subtitle>本博客用于记录分享我的学习过程</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="https://sunyio.github.io/"/>
+  <updated>2020-04-15T16:15:20.054Z</updated>
+  <id>https://sunyio.github.io/</id>
+  
+  <author>
+    <name>拉狗</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>hexo生成博文插入图片</title>
+    <link href="https://sunyio.github.io/2020/04/15/hexo%E7%94%9F%E6%88%90%E5%8D%9A%E6%96%87%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/"/>
+    <id>https://sunyio.github.io/2020/04/15/hexo%E7%94%9F%E6%88%90%E5%8D%9A%E6%96%87%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/</id>
+    <published>2020-04-15T14:59:10.000Z</published>
+    <updated>2020-04-15T16:15:20.054Z</updated>
+    
+    <content type="html"><![CDATA[<img src="/2020/04/15/hexo%E7%94%9F%E6%88%90%E5%8D%9A%E6%96%87%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/cat_happy.jpg" class title="This is an example image"><p>参考:<a href="https://blog.csdn.net/xjm850552586/article/details/84101345" target="_blank" rel="noopener">https://blog.csdn.net/xjm850552586/article/details/84101345</a></p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;img src=&quot;/2020/04/15/hexo%E7%94%9F%E6%88%90%E5%8D%9A%E6%96%87%E6%8F%92%E5%85%A5%E5%9B%BE%E7%89%87/cat_happy.jpg&quot; class title=&quot;This is an ex
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>搭建博客简单步骤</title>
+    <link href="https://sunyio.github.io/2020/04/15/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E7%AE%80%E5%8D%95%E6%AD%A5%E9%AA%A4/"/>
+    <id>https://sunyio.github.io/2020/04/15/%E6%90%AD%E5%BB%BA%E5%8D%9A%E5%AE%A2%E7%AE%80%E5%8D%95%E6%AD%A5%E9%AA%A4/</id>
+    <published>2020-04-14T21:25:35.000Z</published>
+    <updated>2020-04-14T21:27:51.873Z</updated>
+    
+    <content type="html"><![CDATA[<p>1.下载git   注册账号<br>2.下载node.js<br>3.使用npm安装Hexo         在指定文件夹运行cmd   npm install -g hexo-cli<br>4.创建 hexo init <folder>    进入cd <folder>     运行 npm install  初始化后会有一个项目文件夹<br>5.更改_config.yml文件<br>6.进入项目文件夹 新建博客  hexo new “xxx”   生成 hexo g<br>7.hexo server 启动网站    <a href="http://localhost:4000" target="_blank" rel="noopener">http://localhost:4000</a><br>8.安装 hexo-deployer-git      运行 npm install hexo-deployer-git –save<br>9.部署  hexo deploy</folder></folder></p><p>注：我个人简化许多  具体步骤参考hexo.com</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;1.下载git   注册账号&lt;br&gt;2.下载node.js&lt;br&gt;3.使用npm安装Hexo         在指定文件夹运行cmd   npm install -g hexo-cli&lt;br&gt;4.创建 hexo init &lt;folder&gt;    进入cd &lt;folder&gt; 
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://sunyio.github.io/2020/04/15/Hello-World/"/>
+    <id>https://sunyio.github.io/2020/04/15/Hello-World/</id>
+    <published>2020-04-14T21:15:51.000Z</published>
+    <updated>2020-04-14T21:19:03.666Z</updated>
+    
+    <content type="html"><![CDATA[<p>##我的第一篇博客<br>运营博客的初衷：<br>①督促我学习<br>②分享我的学习过程及经验。<br>我认为分享的过程更容易促进我的进步。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;##我的第一篇博客&lt;br&gt;运营博客的初衷：&lt;br&gt;①督促我学习&lt;br&gt;②分享我的学习过程及经验。&lt;br&gt;我认为分享的过程更容易促进我的进步。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
